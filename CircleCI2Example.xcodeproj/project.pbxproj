@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = 3D7QYCFBU4;
 				INFOPLIST_FILE = CircleCI2Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tondol.rmp.CircleCI2Example;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bh.circleci;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -465,7 +465,7 @@
 				DEVELOPMENT_TEAM = 3D7QYCFBU4;
 				INFOPLIST_FILE = CircleCI2Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tondol.rmp.CircleCI2Example;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bh.circleci;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -575,10 +575,10 @@
 				DEVELOPMENT_TEAM = 3D7QYCFBU4;
 				INFOPLIST_FILE = CircleCI2Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.tondol.rmp.CircleCI2Example-staging";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bh.circleci;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "abc6d1c7-696d-45a8-a72f-41846a9ac4cf";
-				PROVISIONING_PROFILE_SPECIFIER = "CircleCI2Example Staging (Ad-Hoc)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -669,10 +669,10 @@
 				DEVELOPMENT_TEAM = 3D7QYCFBU4;
 				INFOPLIST_FILE = CircleCI2Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.tondol.rmp.CircleCI2Example-development";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bh.circleci;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "cba4dcd7-0f87-47e0-b88b-aa7fc93d8674";
-				PROVISIONING_PROFILE_SPECIFIER = "CircleCI2Example Development (Ad-Hoc)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
