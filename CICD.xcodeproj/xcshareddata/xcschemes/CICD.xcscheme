@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0A3EAFDC009CBFEA0F5CBD2DE0438D88"
-               BuildableName = "Pods_CICD.framework"
-               BlueprintName = "Pods-CICD"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "48CD0778224BBDFA0065C847"
+               BuildableName = "CICD.app"
+               BlueprintName = "CICD"
+               ReferencedContainer = "container:CICD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "48CD078C224BBDFB0065C847"
+               BuildableName = "CICDTests.xctest"
+               BlueprintName = "CICDTests"
+               ReferencedContainer = "container:CICD.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "48CD0778224BBDFA0065C847"
+            BuildableName = "CICD.app"
+            BlueprintName = "CICD"
+            ReferencedContainer = "container:CICD.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,15 +61,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0A3EAFDC009CBFEA0F5CBD2DE0438D88"
-            BuildableName = "Pods_CICD.framework"
-            BlueprintName = "Pods-CICD"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "48CD0778224BBDFA0065C847"
+            BuildableName = "CICD.app"
+            BlueprintName = "CICD"
+            ReferencedContainer = "container:CICD.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -60,6 +80,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "48CD0778224BBDFA0065C847"
+            BuildableName = "CICD.app"
+            BlueprintName = "CICD"
+            ReferencedContainer = "container:CICD.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
