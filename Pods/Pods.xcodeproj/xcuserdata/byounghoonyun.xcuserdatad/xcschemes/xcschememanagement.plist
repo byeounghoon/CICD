@@ -4,12 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-CICD.xcscheme</key>
+		<key>Pods-CircleCI2Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-CICDTests.xcscheme</key>
+		<key>Pods-CircleCI2ExampleTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
